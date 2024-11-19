@@ -19,7 +19,7 @@ const LoginPage: React.FC = () => {
         <form>
           <div className="input-group">
             <label htmlFor="username">Username</label>
-            <input type="text" id="username" placeholder="Username" />
+            <input type="text" id="username" placeholder="Username"/>
           </div>
           <div className="input-group">
             <label htmlFor="password">Password</label>
